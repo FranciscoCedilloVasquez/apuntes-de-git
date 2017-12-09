@@ -43,3 +43,6 @@ Desde ahora podemos hacer pull y push sin que Github nos esté pidiendo los dato
 ### Aportes desde la cuenta de Francisco Cedillo
 
 Este texto fue aportado desde la cuenta Francisco Cedillo
+
+## Varios Repositorios Remotos
+Podemos configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos
